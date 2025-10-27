@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**kasbihari/kasbihari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Krishna** — a developer & designer blending **code, art, and culture**.  
+I craft digital experiences that are both functional and visually refined, inspired by **Japanese, Arabic, and Indian** aesthetics.  
 
-Here are some ideas to get you started:
+Outside of coding, I’m into **chess ♟️**, **sports 🏀🥋**, and **anime 🎮** — always learning, creating, and balancing the board.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “Balance the board. Design the future.”
+
+**Languages:** Dutch 🇳🇱 · English 🇬🇧 · (almost) Spanish 🇪🇸
+
+
+## 🧠 Skills
+
+**Frontend:** HTML · CSS · JavaScript · Bootstrap · Tailwind · Next.js  
+**Backend:** PHP (Symfony) · Node.js · SQL  
+**Game Dev:** Unity · C#  
+**Design:** Photoshop · Illustrator · Canva · UI/UX
+
+
+## 📬 Contact
+
+💌 [kas.bihari@gmail.com](mailto:kas.bihari@gmail.com)  
+💼 [github.com/KrishnaBihari04](https://github.com/KrishnaBihari04)  
+🌐 [kasbihari.github.io](https://kasbihari.github.io)  
+🔗 [LinkedIn](https://linkedin.com/in/krishnabihari)
