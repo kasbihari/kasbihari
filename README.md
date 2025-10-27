@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 I’m **Krishna** — a developer & designer blending **code, art, and culture**.  
 I craft digital experiences that are both functional and visually refined, inspired by **Japanese, Arabic, and Indian** aesthetics.  
