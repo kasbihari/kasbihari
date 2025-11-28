@@ -20,6 +20,5 @@ Outside of coding, I’m into **chess ♟️**, **sports 🏀🥋**, and **anime
 
 ## 📬 Contact
 💌 [kas.bihari@gmail.com](mailto:kas.bihari@gmail.com)  
-💼 [github.com/KrishnaBihari04](https://github.com/kasbihari)
 🌐 [kasbihari.github.io](https://kasbihari.github.io)  
 🔗 [LinkedIn](https://linkedin.com/in/krishnabihari)
