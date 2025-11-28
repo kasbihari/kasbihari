@@ -15,7 +15,7 @@ Outside of coding, I’m into **chess ♟️**, **sports 🏀🥋**, and **anime
 **Frontend:** HTML · CSS · JavaScript · Bootstrap · Tailwind · Next.js  
 **Backend:** PHP (Symfony) · Node.js · SQL  
 **Game Dev:** Unity · C#  
-**Design:** Photoshop · Illustrator · Canva · UI/UX
+**Design:** Photoshop · Illustrator · Lightroom · Canva · Affinity · UI/UX · Sketchup 3D
 
 
 ## 📬 Contact
