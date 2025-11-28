@@ -15,12 +15,12 @@ Outside of coding, I’m into **chess ♟️**, **sports 🏀🥋**, and **anime
 **Frontend:** HTML · CSS · JavaScript · Bootstrap · Tailwind · Next.js  
 **Backend:** PHP (Symfony) · Node.js · SQL  
 **Game Dev:** Unity · C#  
-**Design:** Photoshop · Illustrator · Lightroom · Canva · Affinity · UI/UX · Sketchup 3D
+**Design:** Photoshop · Illustrator · Lightroom · Premiere Pro · Canva · Affinity · UI/UX · Sketchup 3D
 
 
 ## 📬 Contact
 
 💌 [kas.bihari@gmail.com](mailto:kas.bihari@gmail.com)  
-💼 [github.com/KrishnaBihari04](https://github.com/kasbihari)  
+💼 [github.com/KrishnaBihari04](https://github.com/kasbihari)
 🌐 [kasbihari.github.io](https://kasbihari.github.io)  
 🔗 [LinkedIn](https://linkedin.com/in/krishnabihari)
